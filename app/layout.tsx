@@ -14,7 +14,7 @@ export const metadata: Metadata = {
 // const banner = <Banner storageKey="some-key">This template was created with 🩸 and 💦 by <Link href="https://github.com/phucbm">PHUCBM</Link> 🐧</Banner>
 const navbar = (
     <Navbar
-        logo={<img src="/images/general/sia_logo.png" alt="Logo" width={100} height={20}/>}
+        logo={<img src="/images/general/lifecoach_logo.svg" alt="Logo" width={150} height={30}/>}
         // ... Your additional navbar options
     />
 )
