@@ -39,3 +39,9 @@ pnpm dev
 ## License
 
 This project is licensed under the MIT License.
+
+
+## Screening Survey Button 
+```
+<ConfirmButton href="https://kaistdj.qualtrics.com/jfe/form/SV_6mW3yj5XomGbp0G" label="📝스크리닝 설문 시작하기" />
+```
